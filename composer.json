@@ -1,5 +1,5 @@
 {
-  "name": "Liqiangz/alidayu",
+  "name": "liqiangz/alidayu",
   "type": "library",
   "description": "Alidayu",
   "keywords": ["laravel","alidayu"],
@@ -18,7 +18,7 @@
       "src/"
     ],
     "psr-0": {
-      "Liqiangz\\Alidayu\\": "src/"
+      "liqiangz\\Alidayu\\": "src/"
     }
   }
 
