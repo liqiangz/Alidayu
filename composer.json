@@ -18,7 +18,7 @@
       "src/"
     ],
     "psr-0": {
-      "liqiangz\\Alidayu\\": "src/"
+      "Liqiangz\\Alidayu\\": "src/"
     }
   }
 
