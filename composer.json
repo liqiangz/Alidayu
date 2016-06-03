@@ -1,0 +1,25 @@
+{
+  "name": "kollway/alidayu",
+  "type": "library",
+  "description": "Alidayu",
+  "keywords": ["laravel","alidayu"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "liqiangk",
+      "email": "15255829911@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ],
+    "psr-0": {
+      "Kollway\\Alidayu\\": "src/"
+    }
+  }
+
+}
