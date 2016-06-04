@@ -6,7 +6,7 @@
  * Time: 14:59
  */
 
-namespace Kollway\Alidayu;
+namespace Liqiangz\Alidayu;
 
 include "TopSdk.php";
 
